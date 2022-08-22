@@ -1,0 +1,44 @@
+
+
+body {background-color: rgb(78, 106, 110);
+
+    background-image: url("Rascal\ and\ Maddie.jpeg");
+    background-position: center top ;
+
+
+}
+
+
+h1 {
+    color: rgb(255, 0, 212);
+    font-family: verdana;
+    font-size: 160%;
+  }
+
+
+
+p {
+    color: rgb(255, 0, 187);
+    font-family: verdana;
+    font-size: 160%;
+    padding: 30px;
+    border : 1px solid rgb(230, 176, 197);
+  }
+    
+
+
+
+  button{
+
+    background  : orange;
+    font-size: 300%;
+    position: top;
+
+  }
+
+  #Reset{
+
+    font-size: 480%;
+
+
+  }
